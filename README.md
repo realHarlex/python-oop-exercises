@@ -1,11 +1,26 @@
 # Python OOP Exercises
 
-This repository contains various exercises to practice Object-Oriented Programming (OOP) in Python.  
-It covers:
+This repository contains a set of Python exercises focused on **Object‑Oriented Programming (OOP)**.  
+These exercises are designed to help learners practice key OOP concepts and strengthen their Python programming skills.
 
-- Creating classes and objects
-- Using constructors and methods
-- Implementing inheritance and polymorphism
-- Encapsulation and data protection
+## 🚀 What’s Inside
 
-These exercises are ideal for students or anyone wanting to strengthen their Python OOP skills.
+- **Classes and Objects**
+- **Attributes and Methods**
+- **Encapsulation**
+- **Inheritance**
+- **Polymorphism**
+- Practical examples and simple projects
+
+## 🧠 Who It’s For
+
+This repository is suitable for:
+- Beginners learning Python
+- Students studying OOP
+- Anyone who wants hands‑on practice with Python classes
+
+## 📦 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/realHarlex/python-oop-exercises.git
